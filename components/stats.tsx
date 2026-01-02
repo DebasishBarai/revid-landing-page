@@ -21,7 +21,7 @@ export const Article2 = () => {
   ];
 
   return (
-    <article className="rounded-3xl px-4 sm:px-6 md:px-8 pb-8 border border-[#252629] mt-4 bg-[#15171A]">
+    <article className="rounded-3xl px-4 sm:px-6 md:px-8 pb-8 border border-[#252629] bg-[#15171A] max-w-7xl mx-auto">
       {/* Top decorative border */}
       <div className="relative z-20 h-8 sm:h-10 border border-t-0 border-[#ffffff10] bg-[#15171A]"></div>
       
