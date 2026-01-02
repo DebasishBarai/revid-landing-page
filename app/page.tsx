@@ -5,7 +5,7 @@ import { Article4 } from '@/components/features'
 
 export default function Home() {
   return (
-    <div className="px-4 min-h-screen bg-zinc-50 font-sans dark:bg-black">
+    <div className="bg-black text-white min-h-screen min-w-full flex flex-col justify-start items-center">
         <HeroSection />
         <Article2 />
         <Article3 />
