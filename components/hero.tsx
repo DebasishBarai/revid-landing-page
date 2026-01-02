@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export const HeroSection = () => {
   return (
-    <article className="rounded-3xl px-4 sm:px-6 md:px-8 border border-[#252629] bg-[#15171A] max-w-7xl mx-auto">
+    <article className="rounded-3xl px-4 sm:px-6 md:px-8 border border-[#252629] bg-[#15171A] max-w-8xl mx-auto">
       <div className="w-full relative border-x border-[#ffffff10] md:px-8 py-[7.5%] grid lg:grid-cols-2 gap-12 lg:gap-4 xl:gap-8 items-start">
         
         {/* Corner decorative dots */}
